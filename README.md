@@ -6,7 +6,7 @@ I'm a **3rd-year student at NITK**, passionate about **AI**, and creating impact
 ## 🧑‍💻 About Me  
 - 🔍 Exploring **Machine Learning**, **Natural Language Processing**.  
 - 💡 **Hackathon Enthusiast**: Secured top positions in intercollege NLP and image processing challenges.  
-- 🛠️ Currently working on projects that bridge technology with real-world impact, such as:  
+- 🛠️ I’ve worked on projects where technology is used to solve real-world problems and create meaningful impact, such as:
   - A **Search-in-Video Extension** to revolutionize how we interact with video content.  
 - 🌱 Always eager to learn and contribute to cutting-edge tech innovations.  
 - 🌟 Open to collaborations on innovative and challenging ideas!  
