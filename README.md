@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shri Harshan!  
 
 ## Welcome to my GitHub profile!  
-I'm a **3rd-year student at NITK**, passionate about **AI**, and creating impactful solutions through technology. 🚀  
+I'm a **4th-year student at NITK**, passionate about **AI**, and creating impactful solutions through technology. 🚀  
 
 ## 🧑‍💻 About Me  
 - 🔍 Exploring **Machine Learning**, **Natural Language Processing**.  
